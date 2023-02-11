@@ -1,0 +1,18 @@
+/* poppins font:
+font-family: 'Mochiy Pop One',
+sans-serif;
+font-family: 'Poppins',
+sans-serif; */
+
+h1{
+    font-family: 'Poppins',
+        sans-serif;
+        color: black;
+        font-weight: bold;
+    }
+
+        p {
+            font-family: 'Playfair Display',
+                serif;
+            ;
+        }
